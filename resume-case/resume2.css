@@ -244,3 +244,10 @@ body {
 .details .skills__item .right input:checked+label {
     background: #79A9CE;
 }
+.Persionwebsite {
+ list-style: none;
+ justify-content: end;
+ margin: 0;
+ font-size: 8px;
+ padding-top: 1px;
+}
